@@ -1,2 +1,1 @@
-# NotesApp
-#Android application for taking notes of small events.
+# NotesApp Android application for taking notes of small events.
